@@ -1,0 +1,111 @@
+
+/* sports academy */
+.sports-image {
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  
+}
+
+.sports-image img {
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.sports-image::before {
+    position: absolute;
+    content: "";
+    height: 80%;
+    width: 100%;
+    background-color:  #198754;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: -1;
+    border-radius: 50%;
+    -webkit-transition: .5s;
+    transition: .5s;
+    -webkit-animation: border-transform-default 1s linear infinite alternate forwards;
+    animation: border-transform-default 1s linear infinite alternate forwards;
+}
+
+.sports-image::after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background-color: #ffc107;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: -1;
+    border-radius: 50%;
+    -webkit-transition: .5s;
+    transition: .5s;
+    -webkit-animation: border-transform-default 2s linear infinite alternate forwards;
+    animation: border-transform-default 2s linear infinite alternate forwards;
+}
+
+/* Keyframes for the animation */
+@keyframes border-transform-default {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
+}
+
+@-webkit-keyframes border-transform-default {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
+}
+.ptb-100{padding-top:10px;padding-bottom:10px}
+.modal-dialog {
+      max-width: 800px;
+      margin: 30px auto;
+  }
+
+.modal-body {
+  position:relative;
+  padding:0px;
+}
+
+.play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    height: 150px;
+    width: 150px;
+}
+
+
+.closeButton {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: #c8102E;
+    color:white;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Set the height of the container if needed */
+    width: 100%;  /* Set the width of the container if needed */
+    margin:10px;
+    padding:10px;
+}
+
+/* sports academy */
