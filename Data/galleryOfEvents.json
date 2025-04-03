@@ -1,0 +1,293 @@
+{
+  "GALLERY": [
+    {
+      "EVENTID": "1",
+      "eventname": "Career Carnival",
+      "titleimage": "img/gallery/Career Carnival/2.webp",
+      "description": "The event between Career Carnival",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Career Carnival/1.webp"
+        },
+        {
+          "IMG": "img/gallery/Career Carnival/6.webp"
+        },
+        {
+          "IMG": "img/gallery/Career Carnival/3.webp"
+        },
+        {
+          "IMG": "img/gallery/Career Carnival/4.webp"
+        },
+        {
+          "IMG": "img/gallery/Career Carnival/5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "2",
+      "eventname": "Coffee with Chairman",
+      "titleimage": "img/gallery/Coffee with chairman/1.webp",
+      "description": "The event between Coffee with Chairman",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Coffee with chairman/2.webp"
+        },
+        {
+          "IMG": "img/gallery/Coffee with chairman/3.webp"
+        },
+        {
+          "IMG": "img/gallery/Coffee with chairman/4.webp"
+        },
+        {
+          "IMG": "img/gallery/Coffee with chairman/5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "3",
+      "eventname": "Graduation Ceremony",
+      "titleimage": "img/gallery/Graduation Ceremony/1.webp",
+      "description": "The event between Graduation Ceremony",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Graduation Ceremony/2.webp"
+        },
+        {
+          "IMG": "img/gallery/Graduation Ceremony/3.webp"
+        },
+        {
+          "IMG": "img/gallery/Graduation Ceremony/4.webp"
+        },
+        {
+          "IMG": "img/gallery/Graduation Ceremony/5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "4",
+      "eventname": "International Chess Day",
+      "titleimage": "img/gallery/International Chess Day/1.webp",
+      "description": "The event between International Chess Day",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/International Chess Day/2.webp"
+        },
+        {
+          "IMG": "img/gallery/International Chess Day/3.webp"
+        },
+        {
+          "IMG": "img/gallery/International Chess Day/4.webp"
+        },
+        {
+          "IMG": "img/gallery/International Chess Day/5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "5",
+      "eventname": "Orientation Programme",
+      "titleimage": "img/gallery/Orientation Programme/1.webp",
+      "description": "The event between Orientation Programme",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Orientation Programme/2.webp"
+        },
+        {
+          "IMG": "img/gallery/Orientation Programme/3.webp"
+        },
+        {
+          "IMG": "img/gallery/Orientation Programme/4.webp"
+        },
+        {
+          "IMG": "img/gallery/Orientation Programme/5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "6",
+      "eventname": "Parent volunteer Programme",
+      "titleimage": "img/gallery/Parent volunteer programme/1.webp",
+      "description": "The event between Parent volunteer Programme",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Parent volunteer programme/2.webp"
+        },
+        {
+          "IMG": "img/gallery/Parent volunteer programme/3.webp"
+        },
+        {
+          "IMG": "img/gallery/Parent volunteer programme/4.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "7",
+      "eventname": "Poster Making Activity",
+      "titleimage": "img/gallery/Poster Making Activity/1.webp",
+      "description": "The event between Poster Making Activity",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Poster Making Activity/2.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/3.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/4.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "8",
+      "eventname": "Investiture Ceremony",
+      "titleimage": "img/gallery/investiture and sahodaya/Investiture 1.webp",
+      "description": "The event between Investiture Ceremony",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Poster Making Activity/investiture 2.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/investiture 3.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/investiture 4.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/investiture 5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "9",
+      "eventname": "Sahodaya Interschool Street play competition",
+      "titleimage": "img/gallery/investiture and sahodaya/Sahodaya 1.webp",
+      "description": "The event between Sahodaya Interschool Street play competition",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Poster Making Activity/Sahodaya 2.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/Sahodaya 3.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/Sahodaya 4.webp"
+        },
+        {
+          "IMG": "img/gallery/Poster Making Activity/Sahodaya 5.webp"
+        }
+      ]
+    },
+    {
+      "EVENTID": "10",
+      "eventname": "Dandiya Night",
+      "titleimage": "img/gallery/DandiyaNight/3.JPG",
+      "description": "The event between Dandiya Night",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/DandiyaNight/1.JPG"
+        },
+        {
+          "IMG": "img/gallery/DandiyaNight/2.JPG"
+        },
+        {
+          "IMG": "img/gallery/DandiyaNight/4.JPG"
+        },
+        {
+          "IMG": "img/gallery/DandiyaNight/5.JPG"
+        }
+      ]
+    },
+
+    {
+      "EVENTID": "11",
+      "eventname": "Good Touch Bad Touch",
+      "titleimage": "img/gallery/Good touch bad touch/3.jpg",
+      "description":"The event between Good Touch Bad Touch",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Good touch bad touch/1.jpg"
+        },
+        {
+          "IMG": "img/gallery/Good touch bad touch/2.jpg"
+        },
+        {
+          "IMG": "img/gallery/Good touch bad touch/4.jpg"
+        }
+      
+      ]
+    },
+    {
+      "EVENTID": "12",
+      "eventname": "Rangla Punjab",
+      "titleimage": "img/gallery/Rangla Punjab/1.JPG",
+      "description":"The event between Rangla Punjab",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Rangla Punjab/2.JPG"
+        },
+        {
+          "IMG": "img/gallery/Rangla Punjab/3.JPG"
+        },
+        {
+          "IMG": "img/gallery/Rangla Punjab/4.JPG"
+        }
+      
+      ]
+    },
+    {
+      "EVENTID": "13",
+      "eventname": "Annual Function-'Rangmanch'",
+      "titleimage": "img/gallery/Annual Function/6.jpg",
+      "description":"The event between Annual Function-'Rangmanch'",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/Annual Function/1.jpg"
+        },
+        {
+          "IMG": "img/gallery/Annual Function/2.jpg"
+        },
+        {
+          "IMG": "img/gallery/Annual Function/3.jpg"
+        },
+        {
+          "IMG": "img/gallery/Annual Function/4.jpg"
+        },
+        {
+          "IMG": "img/gallery/Annual Function/5.jpg"
+        },
+        {
+          "IMG": "img/gallery/Annual Function/7.jpg"
+        }
+      ]
+    },
+    {
+      "EVENTID": "14",
+      "eventname": " Academic Regalia - 'The kindergarten Graduation'",
+      "titleimage": "img/gallery/graduation/graduation1.jpg",
+      "description":"The event between Academic Regalia - 'The kindergarten Graduation'",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/graduation/graduation1.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation2.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation3.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation4.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation5.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation6.jpg"
+        }
+      ]
+    }
+  ]
+}
