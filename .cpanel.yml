@@ -1,0 +1,25 @@
+---
+deployment:
+  tasks:
+    # Define the deployment path (replace username with your cPanel username)
+    - export DEPLOYPATH=/home/username/public_html/
+    
+    # Deploy directories
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    
+    # Deploy specific files
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
+    
+    # Uncomment if using frameworks/package managers
+    # - cd $DEPLOYPATH && composer install --no-dev
+    # - cd $DEPLOYPATH && npm install --production
+    
+    # Clear cache if applicable
+    # - cd $DEPLOYPATH && php artisan cache:clear
+    
+    # Set permissions if needed
+    # - /bin/chmod 755 $DEPLOYPATH/storage -R
