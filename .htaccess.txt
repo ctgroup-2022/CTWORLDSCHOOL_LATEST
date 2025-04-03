@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.test.ctworld.in [NC]
+RewriteRule ^(.*)$ https://test.ctworld.in/$1 [L,R=301]

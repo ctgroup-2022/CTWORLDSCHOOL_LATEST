@@ -1,0 +1,63 @@
+ <table class="table" id="myTable">
+
+<thead>
+
+    <tr>
+
+        <th>Id</th>
+
+        <th>Name</th>
+
+        <th>Email</th>
+
+        <th>Phone</th>
+
+        <th>Description</th>
+        <th>Resume</th>
+
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+    <?php
+
+require('career.php');
+
+$sql = "SELECT Id, Name, Email, Phone, Resume, Description, Created_at FROM workwithus";
+$result = $conn->query($sql);
+
+if ($result->num_rows > 0) {
+    echo "<table border='1'>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Resume</th>
+                <th>Description</th>
+                <th>Submitted At</th>
+            </tr>";
+    while($row = $result->fetch_assoc()) {
+        echo "<tr>
+                <td>" . $row["Id"]. "</td>
+                <td>" . $row["Name"]. "</td>
+                <td>" . $row["Email"]. "</td>
+                <td>" . $row["Phone"]. "</td>
+                <td><a href='" . htmlspecialchars($row["Resume"]) . "' target='_blank'>View Resume</a></td>
+                <td>" . $row["Description"]. "</td>
+                <td>" . $row["Created_at"]. "</td>
+              </tr>";
+    }
+    echo "</table>";
+} else {
+    echo "No applications found.";
+}
+$conn->close();
+
+?>
+</tbody>
+</table>
+    

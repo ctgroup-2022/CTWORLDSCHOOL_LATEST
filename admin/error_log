@@ -1,0 +1,152 @@
+[27-Aug-2024 08:19:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 12
+[27-Aug-2024 08:28:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 12
+[27-Aug-2024 08:28:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 12
+[27-Aug-2024 08:35:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 125
+[27-Aug-2024 08:36:48 UTC] PHP Notice:  Undefined variable: conn in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 123
+[27-Aug-2024 08:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 123
+[27-Aug-2024 10:01:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 125
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:11 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 163
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[27-Aug-2024 10:21:50 UTC] PHP Notice:  Undefined index: Created_at in /home/ctgroupshahpur/public_html/ctworld.in/admin/dashboard.php on line 164
+[29-Aug-2024 08:38:41 UTC] PHP Notice:  Undefined variable: stmt in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[29-Aug-2024 08:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 03:13:59 UTC] PHP Notice:  Undefined variable: stmt in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 03:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 03:15:02 UTC] PHP Notice:  Undefined variable: stmt in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 03:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 03:17:02 UTC] PHP Notice:  Undefined variable: stmt in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 03:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 09:07:38 UTC] PHP Notice:  Undefined variable: stmt in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[30-Aug-2024 09:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[21-Oct-2024 23:01:15 UTC] PHP Notice:  Undefined index: username in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 20
+[21-Oct-2024 23:01:15 UTC] PHP Notice:  Undefined index: password in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 21
+[21-Oct-2024 23:01:15 UTC] PHP Notice:  Undefined variable: stmt in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[21-Oct-2024 23:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[02-Nov-2024 06:26:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/login.php on line 12
+[22-Nov-2024 16:09:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/login.php on line 12
+[30-Nov-2024 07:12:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ctgroupshahpur/public_html/ctworld.in/admin/login.php on line 12
+[13-Dec-2024 02:58:39 UTC] PHP Notice:  Undefined index: username in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 20
+[13-Dec-2024 02:58:39 UTC] PHP Notice:  Undefined index: password in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 21
+[13-Dec-2024 02:58:39 UTC] PHP Notice:  Undefined variable: stmt in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
+[13-Dec-2024 02:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ctgroupshahpur/public_html/ctworld.in/admin/userInit.php on line 39
