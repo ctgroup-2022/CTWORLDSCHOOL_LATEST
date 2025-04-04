@@ -3,7 +3,7 @@
     <head>
     
         <meta charset="utf-8">
-        <title> Home | CT World School </title>
+        <title> Best School In Jalandhar </title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta  name="keywords" content="ctworldschool,education,school,curriculum,schools near me,kindergarten near me,kindergarten,high school,schooleducation,private school,school admission,education system,near by schools in my location,student education,best school in jalandhar, top school in jalandhar, best school in punjab, top school in punjab,CT World School Jalandhar, CT World School , CT World,CBSE school Jalandhar, modern learning environment, quality education Jalandhar, sports academy Jalandhar, extracurricular activities, admissions CT World School">
         <meta  name="description" content="CT World School Jalandhar, an initiative by CT Education Society, offers a seamless learning environment, empowering children to unlock their full potential.">
