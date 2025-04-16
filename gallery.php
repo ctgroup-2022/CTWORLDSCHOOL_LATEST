@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Gallery | CT World School</title>
+        <title>CT World School Campus Tour Images | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta name="keywords" content="CT World School Campus Tour Images, CT World School Gallery, School Campus Images Jalandhar, Best School in Jalandhar Photos">
 
