@@ -4,8 +4,10 @@
         <meta charset="utf-8">
         <title>Gallery | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="keywords" content="CT World School Campus Tour Images, CT World School Gallery, School Campus Images Jalandhar, Best School in Jalandhar Photos">
+
+        <meta name="description" content="Take a virtual tour of CT World School through our exclusive campus images. Discover top-notch facilities, smart classrooms, and vibrant student life at the best school in Jalandhar.">
+        <meta name="title" content="CT World School Campus Tour Images">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- Tailwind CSS -->
         <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
