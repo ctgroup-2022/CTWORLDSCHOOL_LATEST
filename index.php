@@ -216,7 +216,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </head>
 
     <body>
-        <h1>Best School In Jalandhar - CT WORLD SCHOOL</h1>
+        <!-- <h1>Best School In Jalandhar - CT WORLD SCHOOL</h1> -->
     <!-- <div id="popup" class="popup">
         <div class="popup-content">
             <span class="close-btn" id="closeBtn">&times;</span>
