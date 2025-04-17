@@ -119,7 +119,7 @@
                             <div class="icon-box-light">
                                 <img src="img/classroom.png" alt="">
                             </div>
-                            <h3 class="display-5 text-white mb-0 mt-3 text-center">World-Class Facilities</h3>
+                            <h1 class="display-5 text-white mb-0 mt-3 text-center">World-Class Facilities</h1>
                             <!-- <h3 class="fs-1 text-white">1<sup>st</sup>  - 5<sup>th</sup></h3> -->
                         </div>
                     </div>
