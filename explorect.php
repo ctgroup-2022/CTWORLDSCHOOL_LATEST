@@ -3,10 +3,11 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Explore everything about CT World | CT World School</title>
+        <title>Explore Campus and Culture | CT World School Jalandhar</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Explore the beautiful campus and rich culture of CT World School, Jalandhar. Our state-of-the-art facilities and inclusive environment create the perfect setting for students to learn, grow, and thrive.">
+        <meta name="title" content="Explore Campus and Culture | CT World School Jalandhar">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
