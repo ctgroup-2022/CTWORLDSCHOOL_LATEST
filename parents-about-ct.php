@@ -3,10 +3,11 @@
 
     <head>
         <meta charset="utf-8">
-        <title>What Parents Say About CT World | CT World School</title>
+        <title>Feedback from Parents – CT World School Jalandhar</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Read genuine feedback from parents about their experiences with CT World School, Jalandhar. Discover how our supportive environment, quality education, and dedicated staff make a lasting impact.">
+        <meta name="title" content="Feedback from Parents – CT World School Jalandhar">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">

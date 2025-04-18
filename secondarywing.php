@@ -3,10 +3,11 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Secondary | CT World School</title>
+        <title> Classes 6 to 10 Program - CT World School Jalandhar</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="CT World School, Jalandhar offers a comprehensive curriculum for classes 6 to 10, focusing on academic excellence, skill development, and extracurricular activities to ensure holistic student growth.">
+        <meta name="title" content="Classes 6 to 10 Program - CT World School Jalandhar">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">

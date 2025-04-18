@@ -3,10 +3,12 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Our Activities | CT World School</title>
+        <title>Our Activities And Events | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+       <meta name="description" content="Stay updated with the latest activities and events at CT World School, Jalandhar. From academic celebrations to cultural fests and sports meets, we ensure a vibrant and enriching
+    experience for our students.">
+        <meta name="title" content="Our Activities And Events | CT World School">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">

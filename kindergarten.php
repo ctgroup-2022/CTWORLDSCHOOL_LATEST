@@ -6,7 +6,8 @@
         <title>Kindergarten | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="CT World School, Jalandhar offers a nurturing and engaging kindergarten program focused on early childhood development through play-based learning, creativity, and foundational skills.">
+        <meta name="title" content="Kindergarten | CT World School">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">

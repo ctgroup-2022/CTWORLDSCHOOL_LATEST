@@ -6,7 +6,8 @@
         <title>Evening Sports Academy | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Join the Evening Sports Academy at CT World School, Jalandhar. Our expert coaches offer training in various sports to help students enhance their skills, build teamwork, and stay fit outside school hours.">
+        <meta name="title" content="Evening Sports Academy | CT World School">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">

@@ -6,7 +6,8 @@
         <title>National Education Policy | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Learn how CT World School, Jalandhar aligns with the National Education Policy 2020 by promoting holistic, inclusive, and skill-based education to prepare students for a dynamic future.">
+        <meta name="title" content="National Education Policy | CT World School">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
