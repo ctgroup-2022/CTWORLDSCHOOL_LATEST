@@ -3,10 +3,11 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Blogs | CT World School</title>
+        <title> Blog updates|CT World School Jalandhar</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Looking for the best CBSE school in Jalandhar? CT World School offers top-notch academics, experienced faculty, and world-class infrastructure. Enroll now for 2025.">
+        <meta name="title" content="Blog updates|CT World School Jalandhar">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
