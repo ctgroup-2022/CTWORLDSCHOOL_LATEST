@@ -6,7 +6,8 @@
         <title>Contact Us | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Get in touch with CT World School, Jalandhar – one of the best CBSE schools in Punjab. Contact us for admissions, inquiries, or to learn more about our academic programs and world-class facilities.">
+        <meta name="title" content="Contact Us | CT World School">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
