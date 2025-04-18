@@ -3,10 +3,12 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Apply to CT World | CT World School</title>
+        <title>Admission Process of CT World School Jalandhar | Apply Online 2025</title>
+
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Get complete details on the admission process of CT World School Jalandhar. Learn about eligibility, documents, and how to apply online for the 2025 session.">
+        <meta name="title" content="Admission Process of CT World School Jalandhar | Apply Online 2025">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
