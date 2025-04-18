@@ -3,10 +3,11 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Infrastructure | CT World School</title>
+        <title>Modern Infrastructure | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Experience the modern infrastructure of CT World School, Jalandhar – featuring smart classrooms, advanced labs, digital libraries, and safe, student-friendly spaces designed to support 21st-century learning.">
+        <meta name="title" content="Modern Infrastructure | CT World School">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
