@@ -3,10 +3,11 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Exciting Extracurriculars at CT World School | CT World School</title>
+        <title>Student Life and Activities | CT World School Jalandhar </title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Discover vibrant student life at CT World School, Jalandhar. From sports and cultural events to leadership programs and clubs, we offer a dynamic environment that fosters creativity, teamwork, and personal growth.">
+        <meta name="title" content="Student Life and Activities | CT World School Jalandhar">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
