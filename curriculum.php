@@ -6,7 +6,8 @@
         <title>Comprehensive Curriculum at CT World | CT World School</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="description" content="Explore the innovative curriculum at CT World School, Jalandhar, integrating STEAM education, skill development, and experiential learning to nurture well-rounded, future-ready students.">
+        <meta name="title" content="Comprehensive Curriculum at CT World | CT World School">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
         <!-- favicon -->
         <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
