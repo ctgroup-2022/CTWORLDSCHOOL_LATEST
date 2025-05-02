@@ -29,9 +29,8 @@
 
         <!-- Navbar & Hero Start -->
         <div class="container-fluid sticky-top px-0">
-            <nav class="navbar navbar-expand-lg navbar-dark py-3 px-4 " style="background:#fff4d5">
+            <nav class="navbar navbar-expand-xl navbar-dark py-3 px-4 " style="background:#fff4d5">
                 <a href="index" class="navbar-brand p-0">
-                    <!-- <h1 class="text-warning display-6"><i class="fas fa-city text-yellow me-3"></i>CT World School</h1> -->
                     <img src="img/logo/merge logo.webp" class="logo" alt="Logo" loading="lazy" style=width:300px;> 
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

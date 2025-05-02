@@ -275,6 +275,100 @@
 }
 /*** Navbar End ***/
 
+/* Mobile menu styling (1024px and below) */
+@media (max-width: 1024px) {
+    /* Show hamburger menu below 1024px */
+    .navbar-expand-xl .navbar-toggler {
+        display: block;
+    }
+    
+    .navbar-expand-xl .navbar-collapse {
+        display: none !important;
+    }
+    
+    .navbar-expand-xl .navbar-collapse.show {
+        display: block !important;
+    }
+    
+    /* Mobile menu styling */
+    .navbar-collapse {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff4d5;
+        padding: 20px;
+        border-radius: 0 0 10px 10px;
+        box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+        z-index: 1000;
+        max-height: 80vh;
+        overflow-y: auto;
+    }
+    
+    .navbar-nav {
+        flex-direction: column !important;
+        width: 100%;
+    }
+    
+    .navbar .navbar-nav .nav-item {
+        margin: 0;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+        padding: 12px 0;
+        font-size: 16px;
+        border-bottom: 1px solid rgba(25, 135, 84, 0.1);
+    }
+    
+    /* Dropdown styling for mobile */
+    .navbar .nav-item .dropdown-menu {
+        position: static;
+        float: none;
+        width: 100%;
+        background: #fffaeb;
+        border: none;
+        box-shadow: none;
+        margin-left: 15px;
+        padding-left: 15px;
+        margin-top: 0;
+    }
+    
+    /* Make logo smaller on mobile */
+    .logo {
+        width: 180px !important;
+    }
+    
+    /* Smaller screens adjustments */
+    @media (max-width: 576px) {
+        .logo {
+            width: 150px !important;
+        }
+        
+        .navbar .navbar-nav .nav-link {
+            font-size: 15px;
+            padding: 10px 0;
+        }
+        
+        .navbar-toggler {
+            padding: 6px 10px;
+        }
+    }
+    
+    /* Very small screens (320px range) */
+    @media (max-width: 350px) {
+        .logo {
+            width: 130px !important; 
+        }
+        
+        .navbar-toggler {
+            padding: 4px 8px;
+        }
+        
+        .navbar-collapse {
+            padding: 15px 10px;
+        }
+    }
+}
 
 /*** Carousel Start ***/
 .carousel .carousel-inner .carousel-item {
