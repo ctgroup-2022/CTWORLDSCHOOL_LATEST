@@ -112,7 +112,7 @@ tr{
     
     <div class="container mb-5" style="background: #fff4d5" >
     <div class="container-fluid shadow-lg py-5 bg-  bg-" style="background: #fff4d5">
-      <h1 class="text-center"> FEE  STRUCTURE (2024-25)</h1>
+      <h1 class="text-center"> FEE  STRUCTURE (2025-26)</h1>
     </div> <hr>
         <div class="row g-3" >
            <div class="table-responsive">
@@ -121,8 +121,8 @@ tr{
                     <tr >
                         <th>S.No.</th>
                         <th>Description <br>      </th>
-                        <th>Charges (2024-25) <br>(Pre.Nur - X)</th>
-                        <th>Charges (2024-25) <br>(XI - XII)</th>
+                        <th>Charges (2025-26) <br>(Pre.Nur - X)</th>
+                        <th>Charges (2025-26) <br>(XI - XII)</th>
                     </tr>
                     </thead>
                     <tbody class="text-center">
@@ -135,7 +135,7 @@ tr{
                         <tr>
                             <td>2.</td>
                             <td>Admission Charges</td>
-                            <td>Rs. 7,500</td>
+                            <td>Rs. 10,000</td>
                             <td>------</td>
                         </tr>
                         <tr>
@@ -153,7 +153,7 @@ tr{
                         <tr>
                             <td></td>
                             <td>Total</td>
-                            <td>Rs. 19,000</td>
+                            <td>Rs. 21,500</td>
                             <td>Rs. 11,500</td>
                         </tr>
                     </tbody>
@@ -165,38 +165,38 @@ tr{
                     <thead class="text-center">
                     <tr>
                         <th>Tution Fee <br> (Monthly) </th>
-                        <th>Monthly  <br> (2024-25)      </th>
-                        <th>After Special Concession<br>(2024-25) </th>
+                        <th>Monthly  <br> (2025-26)      </th>
+                        <th>After Special Concession<br>(2025-26) </th>
                     </tr>
                     </thead>
                     <tbody class="text-center">
                         <tr>
                             <td>Pre-Nursery - KG-2 </td>
                             <td>Rs. 5,000</td>
-                            <td>Rs. 3,950</td>
+                            <td>Rs. 4,100</td>
                         </tr>
                         <tr>
                             <td>Grade I - V</td>
                             <td>Rs. 5,600</td>
-                            <td>Rs. 3,950</td>
+                            <td>Rs. 4,100</td>
                             
                         </tr>
                         <tr>
                             <td>Grade VI - VIII</td>
                             <td>Rs. 5,600</td>
-                            <td>Rs. 3,950</td>
+                            <td>Rs. 4,100</td>
                         
                         </tr>
                         <tr>
                             <td>Grade IX - X </td>
                             <td>Rs. 6,000</td>
-                            <td>Rs. 3,950</td>
+                            <td>Rs. 4,100</td>
                           
                         </tr>
                         <tr>
                             <td>Grade XI - XII</td>
                             <td>Rs. 6,000</td>
-                            <td>Rs. 3,950</td>
+                            <td>Rs. 4,200</td>
                             
                         </tr>
                     </tbody>

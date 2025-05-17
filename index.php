@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="popup" class="popup">
         <div class="popup-content">
             <span class="close-btn" id="closeBtn">&times;</span>
-            <img src="img\popup.jpeg" alt="Popup Image" class="popup-image">
+            <img src="img\newpopup.jpg" alt="Popup Image" class="popup-image">
         </div>
         <div>
             <!-- <a href="" class="btn btn-danger btn-lg">Apply now</a> -->
@@ -266,6 +266,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <marquee width="100%" direction="up" height="350px" scrollamount="5" style="padding:16px;" onmouseover="this.stop();" onmouseout="this.start();">
                 <ol class="lead">
                 <img src="img/icon/new2.png" alt="latest news" style="height:auto; width:50px;"> <span>
+                <li class="text-body"><strong>CT Shooting Championship!</strong> Join us on May 17-18, 2025 (9am-4pm) at Abhinav Bindra Shooting Range, CT World School. Open for all with attractive prizes! Entry fee: Rs.500 for NR students. First shooting experience for just Rs.50. Register now!</li><br>
                 <li class="text-body">CT World School organised Academic Regalia - Graduation Ceremony for KG 2 students.</li><br>    
                 <li class="text-body">CT World School held its Annual Function "Rangmanch" with full zeal and fervor</li><br>
                     <li class="text-body">CT World School celebrated navratri with a lively 'Dandiya Night' in which around 500 people participated.

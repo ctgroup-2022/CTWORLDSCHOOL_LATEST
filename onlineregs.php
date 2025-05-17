@@ -75,93 +75,269 @@
     }
 
     /*** Single Page Hero Header End ***/
+    
+    /* Form Styling - Enhanced with Two-Column Layout */
+    .registration-form {
+        background: linear-gradient(145deg, #fff4d5 0%, #fffcf0 100%);
+        border-radius: 12px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+        padding: 40px;
+        margin: 40px auto 60px;
+        max-width: 1200px;
+        border: 1px solid rgba(25, 135, 84, 0.1);
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .form-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    
+    .form-side {
+        flex: 1;
+        min-width: 300px;
+        padding-right: 20px;
+    }
+    
+    .image-side {
+        flex: 1;
+        min-width: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+    
+    .image-side img {
+        max-width: 100%;
+        height: auto;
+        position: relative;
+        z-index: 2;
+    }
+    
+    .image-side::before {
+        content: "";
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background-color: rgba(25, 135, 84, 0.1);
+        z-index: 1;
+        right: 40px;
+        top: 40px;
+    }
+    
+    .image-side::after {
+        content: "";
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        background-color: rgba(255, 208, 0, 0.15);
+        z-index: 1;
+        left: 60px;
+        bottom: 30px;
+    }
+    
+    .registration-form .form-title {
+        text-align: left;
+        margin-bottom: 30px;
+        color: #198754;
+        font-weight: 700;
+        font-size: 1.8rem;
+        position: relative;
+        padding-bottom: 12px;
+    }
+    
+    .registration-form .form-title:after {
+        content: "";
+        position: absolute;
+        width: 80px;
+        height: 3px;
+        background: #198754;
+        bottom: 0;
+        left: 0;
+        transform: none;
+    }
+    
+    .registration-form .form-floating {
+        margin-bottom: 20px;
+        position: relative;
+        transition: transform 0.3s ease;
+    }
+    
+    .registration-form .form-control,
+    .registration-form .form-select {
+        border-radius: 8px;
+        height: 55px;
+        padding-left: 45px;
+        border: 2px solid rgba(25, 135, 84, 0.6);
+        background-color: rgba(255, 255, 255, 0.8);
+        transition: all 0.3s ease;
+        font-size: 15px;
+    }
+    
+    .registration-form .form-control:focus,
+    .registration-form .form-select:focus {
+        box-shadow: 0 0 0 0.25rem rgba(25, 135, 84, 0.15);
+        background-color: #ffffff;
+        border-color: #198754;
+    }
+    
+    .registration-form textarea.form-control {
+        height: 120px;
+        padding-top: 18px;
+    }
+    
+    .registration-form .input-icon {
+        position: absolute;
+        top: 18px;
+        left: 16px;
+        color: #198754;
+        z-index: 100;
+        font-size: 18px;
+    }
+    
+    .btn-submit {
+        background: #198754;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        padding: 12px 30px;
+        font-weight: 600;
+        font-size: 16px;
+        letter-spacing: 0.5px;
+        box-shadow: 0 6px 15px rgba(25, 135, 84, 0.25);
+        transition: all 0.3s ease;
+    }
+    
+    .btn-submit:hover {
+        background: #0d6c38;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(25, 135, 84, 0.3);
+    }
+    
+    .registration-form .form-floating label {
+        padding-left: 45px;
+        color: #555;
+    }
+    
+    .border-success {
+        border-color: rgba(25, 135, 84, 0.6) !important;
+    }
+    
+    .platform-description {
+        margin-bottom: 20px;
+        color: #666;
+    }
+    
+    @media (max-width: 992px) {
+        .form-side, .image-side {
+            flex: 100%;
+            padding: 0;
+        }
+        
+        .image-side {
+            margin-top: 30px;
+            order: 2;
+        }
+        
+        .form-side {
+            order: 1;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .registration-form {
+            padding: 25px 20px;
+        }
+    }
     </style>
-
-
 </head>
 
 <body>
-
     <!-- header include -->
-    <?php
- include('inc/menu.php');?>
+    <?php include('inc/menu.php');?>
     <!-- header include -->
     <!-- page header starts -->
     <div class="container-fluid bg-breadcrumb">
         <div class="container text-center py-5" style="max-width: 900px;">
             <h4 class="text-white display-4 mb-5 wow fadeInDown" data-wow-delay="0.1s">Online Registration</h4>
             <ol class="breadcrumb d-flex justify-content-center mb-0 wow fadeInDown" data-wow-delay="0.3s">
-
             </ol>
         </div>
     </div>
 
-    <div class="container mb-5" style="background: #fff4d5">
-
-        <form action="admission.php" method="post" enctype="multipart/form-data" >
-        <div class="row g-3" >
-            <div class="col-lg-12 col-xl-6" >
-                <div class="form-floating border border-success">
-                    <input type="text" class="form-control" id="Student_Name" name="Student_Name" placeholder="Student  Name">
-                    <label for="name">Name of Student</label>
-                </div>
+    <div class="container registration-form">
+        <div class="form-container">
+            <div class="form-side">
+                <h2 class="form-title">Student Registration Form</h2>
+                <p class="platform-description">Fill out this form to register your child for quality education at CT World School.</p>
+                
+                <form action="admission.php" method="post" enctype="multipart/form-data">
+                    <div class="row g-3">
+                        <div class="col-12">
+                            <div class="form-floating border border-success">
+                                <i class="fas fa-user input-icon"></i>
+                                <input type="text" class="form-control" id="Student_Name" name="Student_Name" placeholder="Student Name">
+                                <label for="Student_Name">Name of Student</label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-floating border border-success">
+                                <i class="fas fa-user-tie input-icon"></i>
+                                <input type="text" class="form-control" id="Parent_Name" name="Parent_Name" placeholder="Parent Name">
+                                <label for="Parent_Name">Name of Parent</label>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-floating border border-success">
+                                <i class="fas fa-phone input-icon"></i>
+                                <input type="phone" class="form-control" id="phone" name="Phone" placeholder="Phone">
+                                <label for="phone">Your Phone</label>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-floating border border-success">
+                                <i class="fas fa-graduation-cap input-icon"></i>
+                                <select class="form-select" aria-label="Default select" name="Grade" id="Grade">
+                                    <option selected disabled>Select Grade</option>
+                                    <option value="Kindergarten">Kindergarten</option>
+                                    <option value="Primary">Primary</option>
+                                    <option value="Secondary">Secondary</option>
+                                    <option value="Senior Secondary">Senior Secondary</option>
+                                </select>
+                                <label for="Grade">Admission Grade</label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-floating border border-success">
+                                <i class="fas fa-comment input-icon"></i>
+                                <textarea class="form-control" placeholder="Leave a message here" id="message" name="Message"
+                                    style="height: 120px"></textarea>
+                                <label for="message">Message</label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-submit w-100 py-3">
+                                <i class="fas fa-paper-plane me-2"></i>Send Registration
+                            </button>
+                        </div>
+                    </div>
+                </form>
             </div>
-            <div class="col-lg-12 col-xl-6">
-                <div class="form-floating border border-success">
-                    <input type="text" class="form-control" id="Parent_Name" name="Parent_Name" placeholder="Parent Name ">
-                    <label for="text">Name of Parent</label>
-                </div>
-            </div>
-            <div class="col-lg-12 col-xl-6">
-                <div class="form-floating border border-success">
-                    <input type="phone" class="form-control" id="phone" name="Phone" placeholder="Phone">
-                    <label for="phone">Your Phone</label>
-                </div>
-            </div>
-            <div class="col-lg-12 col-xl-6">
-                <div class=" form-floating border border-success">
-                    <!-- <label for="admission" class="form-label">Admission for Grade</label> -->
-                    <select class="form-select" aria-label="Default select" name="Grade" id="Grade">
-                        <option selected>Admission for Grade</option>
-                        <option value="Kindergarten">Kindergarten</option>
-                        <option value="Primary">Primary</option>
-                        <option value="Secondary">Secondary</option>
-                        <option value="Senior Secondary">Senior Secondary</option>
-                    </select>
-                </div>
-            </div>
-
-            <div class="col-12">
-                <div class="form-floating border border-success">
-                    <textarea class="form-control" placeholder="Leave a message here" id="message" name="Message"
-                        style="height: 160px"></textarea>
-                    <label for="message">Message</label>
-                </div>
-            </div>
-            <div class="col-12">
-                <button class="btn btn-success w-100 py-3">Send Message</button>
+            
+            <div class="image-side">
+                <img src="img/gallery/stydent.png" alt="Student Learning" class="img-fluid">
             </div>
         </div>
-        </form>
-    </div>
-    </div>
     </div>
 
     <!-- Footer Start -->
-    <?php
-       include('inc/footer.php');?>
+    <?php include('inc/footer.php');?>
     <!-- Footer End -->
-
-
-
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>  -->
-
-    <!-- Script for New Day End -->
-    <!-- Back to Top -->
-
-    <a href="#" class="btn btn-success btn-lg-square back-to-top"><i class="fa fa-arrow-up"></i></a>
-
 
     <!-- JavaScript Libraries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
@@ -173,9 +349,10 @@
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script src="lib/lightbox/js/lightbox.min.js"></script>
 
-
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-success btn-lg-square back-to-top"><i class="fa fa-arrow-up"></i></a>
 
 </body>
 
