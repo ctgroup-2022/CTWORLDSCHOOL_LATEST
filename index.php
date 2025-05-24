@@ -43,7 +43,7 @@
         <!-- closing canonical tags -->
         <!-- Open Graph Meta Tags -->
         <meta property="og:title" content="Best School in Jalandhar - CT World School" />
-        <meta property="og:description" content="CT World School Jalandhar, an initiative by CT Education Society, offers a seamless learning environment, empowering children to unlock their full potential." />
+        <meta property="og:description" content="CT World School is recognized as one of the top schools in Jalandhar for holistic education.." />
         <meta property="og:image" content="https://www.ctworld.in/img/logo/merge logo.png" />
         <meta property="og:url" content="https://www.ctworld.in/" />
         <meta property="og:type" content="website" />
@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="popup" class="popup">
         <div class="popup-content">
             <span class="close-btn" id="closeBtn">&times;</span>
-            <img src="img\newpopup.jpg" alt="Popup Image" class="popup-image">
+            <img src="img\popup.jpg" alt="Popup Image" class="popup-image">
         </div>
         <div>
             <!-- <a href="" class="btn btn-danger btn-lg">Apply now</a> -->
