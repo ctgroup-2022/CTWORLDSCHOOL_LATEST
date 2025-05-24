@@ -42,7 +42,7 @@
         <link rel="dns-prefetch" href="https://ctworld.in/"/>
         <!-- closing canonical tags -->
         <!-- Open Graph Meta Tags -->
-        <meta property="og:title" content="CT World School - Jalandhar's Premier Educational Institution" />
+        <meta property="og:title" content="Best School in Jalandhar - CT World School" />
         <meta property="og:description" content="CT World School Jalandhar, an initiative by CT Education Society, offers a seamless learning environment, empowering children to unlock their full potential." />
         <meta property="og:image" content="https://www.ctworld.in/img/logo/merge logo.png" />
         <meta property="og:url" content="https://www.ctworld.in/" />
